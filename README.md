@@ -1,11 +1,13 @@
 # VPC
 Virtual Private Cloud (VPC)
-Name: NANDHANA R
-Register Number: 212223040124
-AIM
+
+#Name: NANDHANA R
+#Register Number: 212223040124
+
+#AIM
 To study the steps involved in setting up a private cloud using AWS or Microsoft Azure platforms and explore its core features and services.
 
-PROCEDURE
+#PROCEDURE
 Step 1: Create a Cloud Account
 Sign up for an account on AWS or Microsoft Azure.
 Complete verification using your email and credit card.
